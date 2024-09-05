@@ -1,0 +1,200 @@
+Found 50 images belonging to 1 classes.
+2/2 [==============================] - 5s 2s/step
+Test Accuracy: 0.0 at quality 2
+Top-5 Accuracy: 0.0 at quality 2
+Found 50 images belonging to 1 classes.
+2/2 [==============================] - 5s 2s/step
+Test Accuracy: 0.0 at quality 4
+Top-5 Accuracy: 0.0 at quality 4
+Found 50 images belonging to 1 classes.
+2/2 [==============================] - 5s 2s/step
+Test Accuracy: 0.02 at quality 6
+Top-5 Accuracy: 0.08 at quality 6
+Found 50 images belonging to 1 classes.
+2/2 [==============================] - 5s 2s/step
+Test Accuracy: 0.32 at quality 8
+Top-5 Accuracy: 0.42 at quality 8
+Found 50 images belonging to 1 classes.
+2/2 [==============================] - 5s 2s/step
+Test Accuracy: 0.6 at quality 10
+Top-5 Accuracy: 0.76 at quality 10
+Found 50 images belonging to 1 classes.
+2/2 [==============================] - 5s 2s/step
+Test Accuracy: 0.66 at quality 12
+Top-5 Accuracy: 0.8 at quality 12
+Found 50 images belonging to 1 classes.
+2/2 [==============================] - 6s 2s/step
+Test Accuracy: 0.7 at quality 14
+Top-5 Accuracy: 0.84 at quality 14
+Found 50 images belonging to 1 classes.
+2/2 [==============================] - 5s 2s/step
+Test Accuracy: 0.82 at quality 16
+Top-5 Accuracy: 0.86 at quality 16
+Found 50 images belonging to 1 classes.
+2/2 [==============================] - 5s 2s/step
+Test Accuracy: 0.8 at quality 18
+Top-5 Accuracy: 0.9 at quality 18
+Found 50 images belonging to 1 classes.
+2/2 [==============================] - 6s 2s/step
+Test Accuracy: 0.82 at quality 20
+Top-5 Accuracy: 0.94 at quality 20
+Found 50 images belonging to 1 classes.
+2/2 [==============================] - 5s 2s/step
+Test Accuracy: 0.84 at quality 22
+Top-5 Accuracy: 0.94 at quality 22
+Found 50 images belonging to 1 classes.
+2/2 [==============================] - 6s 2s/step
+Test Accuracy: 0.84 at quality 24
+Top-5 Accuracy: 0.94 at quality 24
+Found 50 images belonging to 1 classes.
+2/2 [==============================] - 5s 2s/step
+Test Accuracy: 0.82 at quality 26
+Top-5 Accuracy: 0.92 at quality 26
+Found 50 images belonging to 1 classes.
+2/2 [==============================] - 5s 2s/step
+Test Accuracy: 0.86 at quality 28
+Top-5 Accuracy: 0.92 at quality 28
+Found 50 images belonging to 1 classes.
+2/2 [==============================] - 5s 2s/step
+Test Accuracy: 0.84 at quality 30
+Top-5 Accuracy: 0.94 at quality 30
+Found 50 images belonging to 1 classes.
+2/2 [==============================] - 5s 2s/step
+Test Accuracy: 0.82 at quality 32
+Top-5 Accuracy: 0.92 at quality 32
+Found 50 images belonging to 1 classes.
+2/2 [==============================] - 5s 2s/step
+Test Accuracy: 0.82 at quality 34
+Top-5 Accuracy: 0.92 at quality 34
+Found 50 images belonging to 1 classes.
+2/2 [==============================] - 5s 2s/step
+Test Accuracy: 0.84 at quality 36
+Top-5 Accuracy: 0.92 at quality 36
+Found 50 images belonging to 1 classes.
+2/2 [==============================] - 5s 2s/step
+Test Accuracy: 0.82 at quality 38
+Top-5 Accuracy: 0.92 at quality 38
+Found 50 images belonging to 1 classes.
+2/2 [==============================] - 6s 2s/step
+Test Accuracy: 0.86 at quality 40
+Top-5 Accuracy: 0.9 at quality 40
+Found 50 images belonging to 1 classes.
+2/2 [==============================] - 5s 2s/step
+Test Accuracy: 0.86 at quality 42
+Top-5 Accuracy: 0.96 at quality 42
+Found 50 images belonging to 1 classes.
+2/2 [==============================] - 5s 2s/step
+Test Accuracy: 0.86 at quality 44
+Top-5 Accuracy: 0.94 at quality 44
+Found 50 images belonging to 1 classes.
+2/2 [==============================] - 5s 2s/step
+Test Accuracy: 0.88 at quality 46
+Top-5 Accuracy: 0.96 at quality 46
+Found 50 images belonging to 1 classes.
+2/2 [==============================] - 6s 2s/step
+Test Accuracy: 0.86 at quality 48
+Top-5 Accuracy: 0.94 at quality 48
+Found 50 images belonging to 1 classes.
+2/2 [==============================] - 6s 2s/step
+Test Accuracy: 0.8 at quality 50
+Top-5 Accuracy: 0.92 at quality 50
+Found 50 images belonging to 1 classes.
+2/2 [==============================] - 6s 2s/step
+Test Accuracy: 0.82 at quality 52
+Top-5 Accuracy: 0.94 at quality 52
+Found 50 images belonging to 1 classes.
+2/2 [==============================] - 6s 2s/step
+Test Accuracy: 0.82 at quality 54
+Top-5 Accuracy: 0.94 at quality 54
+Found 50 images belonging to 1 classes.
+2/2 [==============================] - 6s 2s/step
+Test Accuracy: 0.84 at quality 56
+Top-5 Accuracy: 0.94 at quality 56
+Found 50 images belonging to 1 classes.
+2/2 [==============================] - 5s 2s/step
+Test Accuracy: 0.84 at quality 58
+Top-5 Accuracy: 0.94 at quality 58
+Found 50 images belonging to 1 classes.
+2/2 [==============================] - 6s 2s/step
+Test Accuracy: 0.84 at quality 60
+Top-5 Accuracy: 0.94 at quality 60
+Found 50 images belonging to 1 classes.
+2/2 [==============================] - 6s 2s/step
+Test Accuracy: 0.86 at quality 62
+Top-5 Accuracy: 0.94 at quality 62
+Found 50 images belonging to 1 classes.
+2/2 [==============================] - 6s 2s/step
+Test Accuracy: 0.86 at quality 64
+Top-5 Accuracy: 0.94 at quality 64
+Found 50 images belonging to 1 classes.
+2/2 [==============================] - 6s 2s/step
+Test Accuracy: 0.88 at quality 66
+Top-5 Accuracy: 0.94 at quality 66
+Found 50 images belonging to 1 classes.
+2/2 [==============================] - 6s 2s/step
+Test Accuracy: 0.86 at quality 68
+Top-5 Accuracy: 0.94 at quality 68
+Found 50 images belonging to 1 classes.
+2/2 [==============================] - 6s 2s/step
+Test Accuracy: 0.86 at quality 70
+Top-5 Accuracy: 0.94 at quality 70
+Found 50 images belonging to 1 classes.
+2/2 [==============================] - 6s 2s/step
+Test Accuracy: 0.86 at quality 72
+Top-5 Accuracy: 0.94 at quality 72
+Found 50 images belonging to 1 classes.
+2/2 [==============================] - 7s 2s/step
+Test Accuracy: 0.88 at quality 74
+Top-5 Accuracy: 0.94 at quality 74
+Found 50 images belonging to 1 classes.
+2/2 [==============================] - 6s 2s/step
+Test Accuracy: 0.88 at quality 76
+Top-5 Accuracy: 0.94 at quality 76
+Found 50 images belonging to 1 classes.
+2/2 [==============================] - 6s 2s/step
+Test Accuracy: 0.88 at quality 78
+Top-5 Accuracy: 0.94 at quality 78
+Found 50 images belonging to 1 classes.
+2/2 [==============================] - 6s 2s/step
+Test Accuracy: 0.88 at quality 80
+Top-5 Accuracy: 0.94 at quality 80
+Found 50 images belonging to 1 classes.
+2/2 [==============================] - 6s 2s/step
+Test Accuracy: 0.88 at quality 82
+Top-5 Accuracy: 0.94 at quality 82
+Found 50 images belonging to 1 classes.
+2/2 [==============================] - 6s 2s/step
+Test Accuracy: 0.86 at quality 84
+Top-5 Accuracy: 0.94 at quality 84
+Found 50 images belonging to 1 classes.
+2/2 [==============================] - 6s 2s/step
+Test Accuracy: 0.88 at quality 86
+Top-5 Accuracy: 0.94 at quality 86
+Found 50 images belonging to 1 classes.
+2/2 [==============================] - 6s 2s/step
+Test Accuracy: 0.88 at quality 88
+Top-5 Accuracy: 0.94 at quality 88
+Found 50 images belonging to 1 classes.
+2/2 [==============================] - 6s 2s/step
+Test Accuracy: 0.88 at quality 90
+Top-5 Accuracy: 0.94 at quality 90
+Found 50 images belonging to 1 classes.
+2/2 [==============================] - 6s 2s/step
+Test Accuracy: 0.88 at quality 92
+Top-5 Accuracy: 0.94 at quality 92
+Found 50 images belonging to 1 classes.
+2/2 [==============================] - 6s 2s/step
+Test Accuracy: 0.88 at quality 94
+Top-5 Accuracy: 0.94 at quality 94
+Found 50 images belonging to 1 classes.
+2/2 [==============================] - 6s 2s/step
+Test Accuracy: 0.88 at quality 96
+Top-5 Accuracy: 0.94 at quality 96
+Found 50 images belonging to 1 classes.
+2/2 [==============================] - 6s 2s/step
+Test Accuracy: 0.88 at quality 98
+Top-5 Accuracy: 0.94 at quality 98
+Found 50 images belonging to 1 classes.
+2/2 [==============================] - 6s 2s/step
+Test Accuracy: 0.88 at quality 100
+Top-5 Accuracy: 0.94 at quality 100
